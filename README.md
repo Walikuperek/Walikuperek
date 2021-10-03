@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Walikuperek
-- 👀 I’m interested in JS, TypeScript, Angular, Node, WebScrap, Phaser3-GameDev, Mobile
-- 🌱 I’m currently learning Socket.io for MultiPlayer Game
-- 💞️ I’m looking for new colleagues
+- 👀 I’m interested in Python, JS, TypeScript, Angular, Node and many web-based-more...
+- 🌱 I’m currently learning Google Cloud Platform
+- 💞️ I’m awlays looking for new colleagues ;)
 - 📫 How to reach me k.walczak@quak.com.pl
 
 <!---
