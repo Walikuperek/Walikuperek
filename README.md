@@ -1,6 +1,6 @@
 👋 Hi, I’m @Walikuperek<br />
 👀 I’m interested in Python, JS, TypeScript, Angular, Node and many web-based-more...<br />
-🌱 I’m currently learning Google Cloud Platform<br />
+🌱 I'm using Google Cloud Platform<br />
 💞️ I’m awlays looking for new colleagues ;)<br />
 📫 How to reach me k.walczak@quak.com.pl<br />
 🌐 My website <a href="https://quak.com.pl">quak.com.pl</a>
