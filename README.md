@@ -2,6 +2,7 @@
 👀 I’m interested in DDD, Event Driven Development, Architeccture and many web-based-more...<br />
 🌱 I'm using Google Cloud Platform<br />
 🌐 My website <a href="https://quak.com.pl">quak.com.pl</a>
+🦆 <em>"be like a duck, fullstack" (duck can fly, walk and swim)</em>
 
 <!---
 Walikuperek/Walikuperek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
