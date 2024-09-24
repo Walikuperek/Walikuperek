@@ -1,4 +1,8 @@
 👋 Hi, I’m @Walikuperek<br />
+🔥✨ Library maker / Architect ✨🔥
+<br />
+<br />
+
 👀 I’m interested in DDD, Event Driven Development, Architecture and many web-based-more...<br />
 🌱 I'm using Google Cloud Platform<br />
 🌐 My website <a href="https://quak.com.pl">quak.com.pl</a>
