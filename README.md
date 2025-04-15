@@ -1,5 +1,5 @@
 👋 Hi, I’m @Walikuperek<br />
-🔥✨ Library maker / Architect ✨🔥
+🔥✨ Programming Freak / Architect ✨🔥
 <br />
 
 👀 I’m interested in DDD, Event Driven Development, Architecture and many web-based-more...<br />
